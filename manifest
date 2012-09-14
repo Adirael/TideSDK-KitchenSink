@@ -1,0 +1,20 @@
+#appname:TideSDK KitchenSink
+#appid:org.tidesdk.kitchensink
+#publisher:Christian
+#image:tidesdk-tide-shape.png
+#url:http://tidesdk.org
+#guid:b621e97a-26d8-48ed-b9d9-2511e7f4cc4d
+#desc:No description provided
+#type:desktop
+runtime:1.2.0.RC6d
+tiapp:1.2.0.RC6d
+tifilesystem:1.2.0.RC6d
+tiplatform:1.2.0.RC6d
+tiui:1.2.0.RC6d
+ticodec:1.2.0.RC6d
+tidatabase:1.2.0.RC6d
+timedia:1.2.0.RC6d
+timonkey:1.2.0.RC6d
+tinetwork:1.2.0.RC6d
+tiprocess:1.2.0.RC6d
+tiworker:1.2.0.RC6d
