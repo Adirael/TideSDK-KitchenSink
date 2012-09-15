@@ -27,10 +27,6 @@ define({
      */
     platforms: [],
     /**
-     * Set this to true, to display a UI button which opens the demo folder.
-     */
-    show_source: false,
-    /**
      * The Code to be executed after the HTML chunk has been placed in the content container.
      * @param {DOMObject} Content Container node.
      */
