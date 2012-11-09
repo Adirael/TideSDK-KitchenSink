@@ -6,15 +6,15 @@
 #guid:b621e97a-26d8-48ed-b9d9-2511e7f4cc4d
 #desc:No description provided
 #type:desktop
-runtime:1.2.0.RC6d
-tiapp:1.2.0.RC6d
-tifilesystem:1.2.0.RC6d
-tiplatform:1.2.0.RC6d
-tiui:1.2.0.RC6d
-ticodec:1.2.0.RC6d
-tidatabase:1.2.0.RC6d
-timedia:1.2.0.RC6d
-timonkey:1.2.0.RC6d
-tinetwork:1.2.0.RC6d
-tiprocess:1.2.0.RC6d
-tiworker:1.2.0.RC6d
+runtime:1.3.0-beta
+app:1.3.0-beta
+filesystem:1.3.0-beta
+platform:1.3.0-beta
+ui:1.3.0-beta
+codec:1.3.0-beta
+database:1.3.0-beta
+media:1.3.0-beta
+monkey:1.3.0-beta
+network:1.3.0-beta
+process:1.3.0-beta
+worker:1.3.0-beta
