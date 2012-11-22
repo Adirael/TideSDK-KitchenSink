@@ -5,10 +5,6 @@
  * Create a new demo in the `/demos/` folder and make sure to add it to `/demo-index.json`
  */
 
-//Namespace fix pre TideSDK 1.3
-//@TODO: Remove in 1.3
-var Ti = Titanium;
-
 define(['modules/sidebar-menu', 'text!../demos/index.json'], function (mod_sidebar_menu, demo_index) {
     var sidebar_menu = new mod_sidebar_menu(JSON.parse(demo_index)),
             current_demo = null,
